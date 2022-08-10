@@ -3,7 +3,7 @@
 
 
 
-## How to intall this?
+## How to install this?
 1. Click on 'Mods' in the main menu.
 2. Click on 'Import Mod', then 'Import From GitHub'
 3. Enter the Import Url which you will find below.
