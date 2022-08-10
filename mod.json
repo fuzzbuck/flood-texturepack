@@ -1,0 +1,10 @@
+{
+  "name": "Flood - IO, Simplistic",
+  "displayName": "Flood - Simplistic TexturePack",
+  "author": "EchoVespy",
+  "description": "quick simplistic wall resprite using factoriodustry scripts",
+  "version": "0.1.2",
+  "hidden": true,
+  "minGameVersion": "136",
+  "dependencies": []
+}
